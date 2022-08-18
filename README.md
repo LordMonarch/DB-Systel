@@ -1,5 +1,5 @@
 # DB-Systel
-Für das Bewerbungsgespräch
+Für das Bewerbungsgespräch \^_^/
 
 ## demo
 - Aufgabe nur mit Basisklassen gelöst
@@ -7,7 +7,7 @@ Für das Bewerbungsgespräch
 - MVC-Pattern angelehnt
 
 ## demo_2
-- opencsv für CSV-Import 
+- opencsv für CSV-Import, mit Model- und Filterklasse 
 - gson für JSON-Formatierung
 - Springboot für REST-api verwendet
 - MVC-Pattern angelehnt
@@ -15,7 +15,8 @@ Für das Bewerbungsgespräch
 ### Aufgebenstellung
 
 Erstellen ein Programm, das die Daten aus der CSV-Datei einliest und über einen REST-Endpoint zur Verfügung stellt. Der Endpunkt soll mit der Abkürzung einer Betriebsstelle angefragt werden und die Daten der Betriebsstelle als JSON-Objekt zurück liefern.
-Zusätzlich kann die Spalte 
+Zusätzlich kann die durchsuuchte Spalte geändert werden.
+
 ### Tipp
 
 Für die Lösung dieser Aufgabe kann man sehr gut Java und SpringBoot einsetzen. Du kannst aber auch andere Technologien nutzen.
